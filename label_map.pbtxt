@@ -1,0 +1,20 @@
+item {
+  id: 1
+  name: 'person'
+}
+item {
+  id: 8
+  name: 'truck'
+}
+item {
+  id: 18
+  name: 'dog'
+}
+item {
+  id: 32
+  name: 'tie'
+}
+item {
+  id: 43
+  name: 'tennis racket'
+}
